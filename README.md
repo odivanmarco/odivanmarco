@@ -29,6 +29,5 @@ Here are some ideas to get you started:
     <img align="center" alt="Odivan-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
     <img align="center" alt="Odivan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Odivan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="right" alt="Odivan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   </div>
   
